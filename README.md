@@ -5,6 +5,8 @@ Description
 Above given source code can find the best resume from the multiple available resume(word document) format based on the keywords present in Job Description.
 For instance, if you are looking for the PHP developer for which you will mention some of the skills of this designtion in JD. These keywords will be the keywords considered to find the best CV.
 
+Libraries :- Numpy, Scipy, Fasttext, Spacy, pyresparser, docx2pdf
+
 Kindly follow the below mentioned steps to execute this source code:-
 1. create conda env with python version = 3.8.10
 2. Install all the requirements
